@@ -1,0 +1,87 @@
+body{
+  font-famile:sans-serif;
+  }
+header a{
+border:5px solid #FF0000;
+  background-color:white;
+  border-radius:20px;
+  color:#FF0000;
+  padding:7px 12px 7px 12px;
+  font-famile:Roboto;
+  margin:25px 9px 10px 9px ;
+  
+  }
+  
+header{
+  background-color:#3914AF;
+  text-align: center;
+  }
+  .glav{
+      border:5px solid #FFFF00;
+ 
+  }
+  h1 {
+      text-align: center;
+      font-size: 25px;
+      font-style: regular;
+      
+  }
+  .text{
+      text-align: center;
+  }
+  footer{
+      background-color:#3914AF ;
+  }
+  footer p{
+      background-color: white;
+      margin:10px 10px 10px 10px;
+      border-top:10px solid #3914AF ;
+      border-bottom:10px solid #3914AF;
+  }
+  .tel{
+border-top: 0px;
+  }
+  ul{
+  list-style:url("https://c.radikal.ru/c33/2202/ad/ccf6f0e9c64f.png");
+  
+  }
+  img{
+      text-align: center;
+      margin: 30px;
+      padding: 0px;
+      border:7px solid #FEAA00 ;
+      border-radius: 38px;
+      width: 450px;
+      height: 450px;
+  }
+  .pag{
+      text-align: center;
+  }
+  a{
+      
+      text-decoration: none;
+      color:red;
+      background-color: white;
+      border:5px solid #3914AF;
+      border-radius: 17px;
+    padding:5px 9px 5px 9px;
+  }
+  .naverx{
+text-align: right;
+  }
+p{
+    font-size: large;
+}
+.great{
+  list-style: url("https://c.radikal.ru/c24/2202/cb/29c453f5725a.png");
+  
+}
+.logo{
+   border: 0px;
+   border-radius: 0px;
+   text-align: left;
+   width: 50px;
+   height: 50px;
+   margin-left: 3px;
+   margin-top: 3px;
+ }
